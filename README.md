@@ -4,5 +4,4 @@ Mit der GND-ID können über die BErnerOrtsTabelle (BEOT) die Identifiers für W
 Anhand der Q-ID werden dann die gewünschten Daten (Koordinaten, Wappen und Webseite der Gemeinde, Wikipedia- und geo.admin.ch-Link) aus Wikidata heruntergeladen.
 anhand welcher nachher die Wikidata-ID (Q-ID) gesucht wird.
 
-Dass Script kann in Google Colab ausgeführt werden: https://drive.google.com/drive/folders/1olFt4UmHhmwMwLAt5w6k3gWg4vRLAw4M
-(Achtung! Dazu muss man sich mit einem Google Account einloggen.)
+Dass Script kann in Google Colab ausgeführt werden: [Pythonscript auf Colab](https://drive.google.com/drive/folders/1olFt4UmHhmwMwLAt5w6k3gWg4vRLAw4M) (Achtung! Dazu muss man sich mit einem Google Account einloggen.)
